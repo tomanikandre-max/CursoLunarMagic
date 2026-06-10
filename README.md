@@ -5,7 +5,6 @@ confira o [Roteiro.pdf](https://github.com/tomanikandre-max/CursoLunarMagic/blob
 # Aviso
 ---
 **Nota sobre a ROM base:** Os arquivos das aulas contêm um link de referência para a ROM limpa de 412 KB. Caso esse link externo seja desativado no futuro por servidores de terceiros, não se preocupe! Basta pesquisar no Google por "Super Mario World (USA) sfc" para obter o arquivo base e colocá-lo na pasta da aula.
----
 ## Propósito Educacional e Isenção de Responsabilidade (Fair Use)
 
 Este repositório e todo o material de apoio fornecido no curso têm caráter **estritamente pedagógico e educativo**. O objetivo principal deste conteúdo é o ensino de lógica de programação, engenharia reversa e introdução à linguagem Assembly (ASM) aplicada à arquitetura de processamento do Super Nintendo Entertainment System (SNES).
