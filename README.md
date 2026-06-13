@@ -2,6 +2,14 @@
   Este é o material de apoio da série de Videos do Youtube 
 de tutoriais de Lunar Magic criadas por mim, para mais informações
 confira o [Roteiro.pdf](https://github.com/tomanikandre-max/CursoLunarMagic/blob/main/Roteiro.pdf) ou a [playlist do Youtube](https://www.youtube.com/playlist?list=PLAOTJIiJGfVwCicNndERc6TekULvxFZtL)
+
+## O que vai ter no curso:
+
+**Aula 01** - todos os ícones do editor, foreground e background customizados e ExGFX animados.
+**Aula 02** - como criar um Overworld do zero e como inserir gráficos customizadosno Overworld.
+**Aula 03** - ferramentas PIXI, Addmusick, GPS, UberASM, Effect Tool.
+**Aula 04** - aprender ASM com Asar e UberASM
+
 # Aviso
 ---
 **Nota sobre a ROM base:** Os arquivos das aulas contêm um link de referência para a ROM limpa de 412 KB. Caso esse link externo seja desativado no futuro por servidores de terceiros, não se preocupe! Basta pesquisar no Google por "Super Mario World (USA) sfc" para obter o arquivo base e colocá-lo na pasta da aula.
