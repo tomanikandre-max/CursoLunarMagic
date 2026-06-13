@@ -6,9 +6,13 @@ confira o [Roteiro.pdf](https://github.com/tomanikandre-max/CursoLunarMagic/blob
 ## O que vai ter no curso:
 
 **Aula 01** - todos os ícones do editor, foreground e background customizados e ExGFX animados.
+---
 **Aula 02** - como criar um Overworld do zero e como inserir gráficos customizadosno Overworld.
+---
 **Aula 03** - ferramentas PIXI, Addmusick, GPS, UberASM, Effect Tool.
+---
 **Aula 04** - aprender ASM com Asar e UberASM
+---
 
 # Aviso
 ---
